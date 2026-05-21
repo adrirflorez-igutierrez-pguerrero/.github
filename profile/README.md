@@ -7,7 +7,7 @@ Welcome to the collaborative organization for Adriana, Iker, and Paula. We are M
 
 **Paula G. Castelló**       | [GitHub Profile](https://github.com/guerreropaula)
 
-**Íker G. Fandiño**         | [GitHub Profile](https://github.com/iker-gutierrez)
+**Iker G. Fandiño**         | [GitHub Profile](https://github.com/iker-gutierrez)
 
 ## Active Projects
 * **`speech-brain-asr`**: An end-to-end ASR pipeline using SpeechBrain. The repository includes custom data preparation, tokenization, language modeling, and acoustic model training on the LibriSpeech dataset.
